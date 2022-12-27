@@ -2,7 +2,7 @@
  Add the \<link\> below in the header of your html page:
  
  ```html
-   <link rel="stylesheet" href="https://dbreskovit.github.io/000Webhost/remove-water-mark.css">
+   <link rel="stylesheet" href="https://raw.githubusercontent.com/dbreskovit/000Webhost/main/remove-water-mark.css">
  ```
  
 #
